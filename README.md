@@ -17,6 +17,6 @@ and offer the option to generate a random MAC address for the given IP address.
 1. Clone or download the script 'nwork_help.sh'
 2. chmod +x nwork_help.sh
 
-##### ./nwork_help.sh <IP address>
+##### ./nwork_help.sh "IP address"
 
 
